@@ -1,3 +1,7 @@
+ ![Github Stats Maia313](https://github-readme-stats.vercel.app/api?username=Maia313&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=cccccc)  
+</br>
+
+
 Hi, I'm Maia 👋
 I’m an frontend developer. I currently work at _VIMLA!_ - a telecom company.
 
