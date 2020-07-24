@@ -2,7 +2,7 @@
 </br>
 
 
-Hi, I'm __Maia__ 👋
+Hi, I'm `Maia` 👋
 I’m an frontend developer. I currently work at _VIMLA!_ - a telecom company.
 
 
