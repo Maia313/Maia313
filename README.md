@@ -1,4 +1,4 @@
- ![Github Stats Maia313](https://github-readme-stats.vercel.app/api?username=Maia313&show_icons=true&title_color=FEE9DF&icon_color=067E7B&text_color=FEE9DF&bg_color=ADFF2F)  
+ ![Github Stats Maia313](https://github-readme-stats.vercel.app/api?username=Maia313&show_icons=true&title_color=FEE9DF&icon_color=067E7B&text_color=FEE9DF&bg_color=9ACD32)  
 </br>
 
 
