@@ -10,9 +10,7 @@ I’m an frontend developer. I currently work at _VIMLA!_ - a telecom company.
 
 > 🤓 I’m also into learning Vue.
 
-> 💬 Just ask me.
-
-> 📫 How to reach me: 
+> 📫 💬 How to reach me: 
 
 > ♀️ ...: 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
