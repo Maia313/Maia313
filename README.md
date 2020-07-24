@@ -14,4 +14,4 @@ I’m an frontend developer. I currently work at _VIMLA!_ - a telecom company.
 
 > ♀️ ...: 
 
-<img width="10%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="20%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
