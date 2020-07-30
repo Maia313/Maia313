@@ -5,7 +5,7 @@
 
 
 Hi, I'm `Maia` 👋
-I’m an frontend developer. I work at _VIMLA!_ - a telecom company.
+I’m a frontend developer. I work at _VIMLA!_ - a telecom company.
 
 
 > 📱💻 I’m currently using mainly JS/React/React native in my work.
