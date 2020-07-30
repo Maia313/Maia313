@@ -4,8 +4,7 @@
 </br>
 
 
-Hi, I'm `Maia` 👋
-I’m a frontend developer. I work at _VIMLA!_ - a telecom company.
+Hi, I'm `Maia` 👋 - a frontend developer. I work at _VIMLA!_ - a telecom company.
 
 
 > 📱💻 I’m currently using mainly JS/React/React native in my work.
