@@ -13,6 +13,4 @@ Hi, I'm `Maia` 👋 - a frontend developer. I work at _VIMLA!_ - a telecom compa
 
 > 📫 💬 How to reach me: 
 
-> ♀️ ...: 
-
 <img width="20%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
