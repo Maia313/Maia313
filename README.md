@@ -1,6 +1,6 @@
 `Only public repositories:`
 
-![Github Stats for Maia313 public repositories](https://github-readme-stats.vercel.app/api?username=Maia313&show_icons=true&title_color=FF69B4&icon_color=FF69B4&text_color=FF69B4&bg_color=ececec)  
+![Github Stats for Maia313 public repositories](https://github-readme-stats.vercel.app/api?username=Maia313&show_icons=true&title_color=FF69B4&icon_color=FF69B4&text_color=FF69B4&bg_color=ececec&width=75)  
 </br>
 
 
