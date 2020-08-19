@@ -5,7 +5,6 @@
 
 
 Hi, I'm `Maia` 👋 - a frontend developer. I work at _VIMLA!_ - a telecom company.
-Languages and communication are very important tools for me to connect. 
 
 
 > 📱💻 I’m currently using mainly JS/React/React native in my work.
