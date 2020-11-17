@@ -7,10 +7,10 @@
 Hi, I'm `Maia` 👋 - a frontend developer. I work at _VIMLA!_ - a telecom company.
 
 
-> 📱💻 I’m currently using mainly JS/React/React native in my work.
+> 📱💻  I’m currently using mainly JS/React/React native in my work.
 
-> 🤓 I’m also into learning Vue. 
+> 🤓  I’m also into learning Vue. 
 
-> 📫 💬 How to reach me: 
+> 📫 💬  How to reach me: 
 
 <img width="20%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
