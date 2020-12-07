@@ -6,7 +6,7 @@
 Hi, I'm `Maia` 👋 - a frontend developer.
 
 
-> 📱💻  I’m currently using mainly React & other JS libraries in my work. I work for Pocketlaw.
+> 📱💻  I’m currently using mainly React & other JS libraries in my work. I work for Pocketlaw - a legal tech company.
 
 > 🤓  I’m also into learning Vue, Nuxt, Next.js
 
