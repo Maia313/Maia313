@@ -8,7 +8,7 @@ Hi, I'm `Maia` 👋 - a frontend developer.
 
 > 💻  I’m currently using mainly React & other JS libraries in my work. 
 
-> <img src=https://www.google.com/search?q=pocketlaw&rlz=1C5CHFA_enSE931SE931&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjTyoGSk9XtAhUSmYsKHTmlC94Q_AUoAnoECAkQBA&biw=1792&bih=1009#imgrc=Rc4i4aSfo7dhBM /> I work @Pocketlaw - <i>a legal tech company</i>.
+> <img src="https://pocketlaw.se/static/decision-e8de6cfc38abfdef9181e80df9ea4bca.png" /> I work @Pocketlaw - <i>a legal tech company</i>.
 
 > 🤓  I’m also into learning Vue, Nuxt, Next.js
 
