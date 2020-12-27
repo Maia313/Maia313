@@ -15,4 +15,4 @@ Hi, I'm `Maia` 👋 - a frontend developer.
 > 📫  💬   How to reach me: 📱
 
 <img width="20%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
