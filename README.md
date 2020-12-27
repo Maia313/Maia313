@@ -19,7 +19,8 @@ Hi, I'm `Maia` 👋 - a frontend developer.
 ```diff
 - text in red
 + text in green
-! text
+! text in orange
 # text in gray
 @@ text in purple (and bold)@@
+__ text
 ```
