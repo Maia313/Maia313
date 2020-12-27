@@ -10,7 +10,7 @@ Hi, I'm `Maia` 👋 - a frontend developer.
 
 > <img src="https://pocketlaw.se/static/decision-e8de6cfc38abfdef9181e80df9ea4bca.png" width="30" height="20" />  I work at Pocketlaw - <i>a legal tech company</i>.
 
-> 🤓   I’m also into learning Vue, Nuxt, Next.js
+> 🤓   I’m also into learning Vue, Nuxt, Next.js, Svelte
 
 > 📫  💬   How to reach me: 📱
 
