@@ -8,10 +8,11 @@ Hi, I'm `Maia` 👋 - a frontend developer.
 
 > 💻  I’m currently using mainly React & other JS libraries in my work. 
 
-> <img src="https://pocketlaw.se/static/decision-e8de6cfc38abfdef9181e80df9ea4bca.png" width="30" height="20" />  I work at PocketLaw - <i styles={{color:"Yellow"}}>a legal tech company</i>.
+> <img src="https://pocketlaw.se/static/decision-e8de6cfc38abfdef9181e80df9ea4bca.png" width="30" height="20" />  I work at PocketLaw - <i>a legal tech company</i>.
 
 > 🤓   I’m also into learning Vue, Nuxt, Next.js, Svelte
 
 > 📫  💬   How to reach me: 📱
 
 <img width="20%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
