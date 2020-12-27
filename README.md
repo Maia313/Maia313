@@ -3,7 +3,7 @@
 </br>
 
 
-Hi, I'm `Maia` 👋 - a frontend developer.
+##### Hi, I'm `Maia` 👋 - a frontend developer.
 
 
 > 💻  I’m currently using mainly React & other JS libraries in my work. 
