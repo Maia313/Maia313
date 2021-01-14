@@ -8,7 +8,7 @@
 
 > 💻  I’m currently using mainly React & other JS libraries in my work. 
 
->   I work at PocketLaw - <i>a legal tech company</i>.
+> 💼  I work at PocketLaw - <i>a legal tech company</i>.
 
 > 🤓   I’m also into learning Vue, Nuxt, Next.js, Svelte
 
