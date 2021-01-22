@@ -9,6 +9,7 @@
 > 🤓   I’m also into learning Vue, Nuxt, Next.js, Svelte
 
 > 📫  💬   How to reach me: 📱
+
 ![Github Stats for Maia313 most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maia313&title_color=FF69B4&icon_color=FF69B4&text_color=FF69B4&bg_color=FFF&layout=compact) 
 
 <img width="20%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
