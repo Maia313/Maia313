@@ -1,8 +1,8 @@
 
-![Github Stats for Maia313 public repositories](https://github-readme-stats.vercel.app/api?username=Maia313&show_icons=true&count_private=true&title_color=FF69B4&icon_color=FF69B4&text_color=FF69B4&bg_color=ececec)  
+![Github Stats for Maia313 repositories](https://github-readme-stats.vercel.app/api?username=Maia313&show_icons=true&count_private=true&title_color=FF69B4&icon_color=FF69B4&text_color=FF69B4&bg_color=ececec)  
 </br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maia313&layout=compact)
+![Github Stats for Maia313 most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maia313&layout=compact)
 
 
 ##### Hi, I'm `Maia` 👋 - a frontend developer.
