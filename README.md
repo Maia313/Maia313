@@ -6,7 +6,7 @@
 
 > 💼  I work at PocketLaw - <i>a legal tech company</i>.
 
-> 🤓   I’m also into learning Vue, Nuxt, Next.js, Svelte
+> 🤓   I’m also into learning Nuxt, Svelte
 
 > 📫  💬   How to reach me: 📱
 
