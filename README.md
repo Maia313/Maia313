@@ -1,9 +1,4 @@
-# A collapsible section containing code
-<details>
-  <summary>Click to expand!</summary>
-  
- ![Github Stats for Maia313 repositories](https://github-readme-stats.vercel.app/api?username=Maia313&show_icons=true&count_private=true&title_color=FF69B4&icon_color=FF69B4&text_color=FF69B4&bg_color=ececec) 
-</details>
+
 
 ##### Hi, I'm `Maia` 👋 - a frontend developer.
 
@@ -18,6 +13,11 @@
 <img width="20%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
+<details>
+  <summary>See more github usage stats!</summary>
+  
+ ![Github Stats for Maia313 repositories](https://github-readme-stats.vercel.app/api?username=Maia313&show_icons=true&count_private=true&title_color=FF69B4&icon_color=FF69B4&text_color=FF69B4&bg_color=ececec) 
+</details>
 
 
 
