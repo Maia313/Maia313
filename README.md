@@ -2,9 +2,9 @@
 
 ##### Hi, I'm `Maia` 👋 - a frontend developer.
 
-> 💻  I’m currently using mainly React & other JS libraries in my work. 
+> 💻  I’ve been using React up until now. Currently switched to using Vue & other JS libraries in my work. 
 
-> 🤓   I’m also into learning Nuxt, Svelte, Sapper
+> 🤓   I’m also into learning Svelte, Sapper, Elm
 
 > 📫  💬   How to reach me: 📱
 
