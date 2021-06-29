@@ -2,7 +2,8 @@
 
 ##### Hi, I'm `Maia` 👋 - a frontend developer.
 
-> 💻  I’ve been using React  in my work, up until now. Currently switched to Vue & other JS libraries. 
+> 💻  I’ve been using React  in my work, up until now. 
+> Currently switched to Vue & other JS libraries. 
 
 > 🤓   I’m also into learning Svelte, Sapper, Elm
 
