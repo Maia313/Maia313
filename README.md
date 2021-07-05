@@ -1,15 +1,12 @@
 
 
-##### Hi, I'm `Maia` 👋 - a frontend developer.
-
+![Metrics](https://metrics.lecoq.io/Maia313?template=classic&config.timezone=Europe%2FStockholm)
 > 💻  I’ve been using React  in my work, up until now. 
 > Currently switched to Vue & other JS libraries. 
 
 > 🤓   I’m also into learning Svelte, Sapper, Elm
 
 > 📫  💬   How to reach me: 📱
-
-![Metrics](https://metrics.lecoq.io/Maia313?template=classic&config.timezone=Europe%2FStockholm)
 
 <img width="20%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
