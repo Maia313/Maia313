@@ -1,7 +1,7 @@
 
 
 ![Metrics](https://metrics.lecoq.io/Maia313?template=classic&config.timezone=Europe%2FStockholm)
-> 💻  I’ve been using React  in my work, up until now. 
+> 💻  I am a frontend developer. I’ve been using React  in my work, up until now. 
 > Currently switched to Vue & other JS libraries. 
 
 > 🤓   I’m also into learning Svelte, Sapper, Elm
