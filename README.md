@@ -2,7 +2,7 @@
 
 > 💻  I am a frontend developer. I’ve been using React & other JS libraries in my work.
 
-> 🤓  What I learned today
+> 🤓  What I learned today : Solid…  is a declarative JS library that does not use a Virtual DOM
 
 > 📫  💬   How to reach me: 📱
 
