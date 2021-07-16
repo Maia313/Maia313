@@ -2,7 +2,7 @@
 
 > 💻  I am a frontend developer. I’ve been using React & other JS libraries in my work.
 
-> 🤓   I’m also into learning Svelte, Sapper, Elm
+> 🤓  What I learned today
 
 > 📫  💬   How to reach me: 📱
 
