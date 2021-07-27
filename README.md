@@ -6,18 +6,7 @@
 
 <details>
  <summary>More, good to know!</summary>
- 1 – Verify that a given argument is a number
- ```js
-  function isNumber(n){
-     return !isNaN(parseFloat(n)) && isFinite(n);
-  }
- ```
- 17 – Verify that a given argument is an array
- ```js
-  function isArray(obj){
-     return Object.prototype.toString.call(obj) === '[object Array]' ;
-  }
- ```
+ 
  31 – UI libraries
  Solid…  is a declarative JS library that does not use a Virtual DOM
  
