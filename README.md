@@ -5,6 +5,7 @@
 > 🤓  What I learned today : To clean RN project npx react-native-clean-project
 
 <details>
+ <summary>More, good to know!</summary>
  Solid…  is a declarative JS library that does not use a Virtual DOM
 </details>
 
