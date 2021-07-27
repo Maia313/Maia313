@@ -2,7 +2,11 @@
 
 > 💻  I am a frontend developer. I’ve been using React & other JS libraries in my work.
 
-> 🤓  What I learned today : Solid…  is a declarative JS library that does not use a Virtual DOM
+> 🤓  What I learned today : To clean RN project npx react-native-clean-project
+
+<details>
+ Solid…  is a declarative JS library that does not use a Virtual DOM
+</details>
 
 > 📫  💬   How to reach me: 📱
 
