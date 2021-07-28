@@ -6,7 +6,7 @@
 
 <details>
  <summary>More, good to know!</summary>
- [](https://github.com/Maia313/Tips-Tricks)
+ https://github.com/Maia313/Tips-Tricks
  31 – UI libraries
  Solid…  is a declarative JS library that does not use a Virtual DOM
  
