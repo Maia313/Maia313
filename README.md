@@ -27,10 +27,6 @@
 </details>
 
 
- ![](https://github.com/ghpvc/?Maia313&color=FF69B4)
-
-
-
 
 
 
