@@ -5,7 +5,7 @@
 > 🤓  What I learned today : To clean RN project npx react-native-clean-project
 
 <details>
- <summary>More, good to know!</summary>
+ <summary>Good to know!</summary>
  https://github.com/Maia313/Tips-Tricks
 </details>
 
