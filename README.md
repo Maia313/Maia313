@@ -2,7 +2,7 @@
 
 > 💻  I am a frontend developer. I’ve been using React & other JS libraries in my work.
 
-> 🤓  What I learned today : To clean RN project npx react-native-clean-project
+> 🤓  What I learned today : In hooks useCallback(fn, deps) is equivalent to useMemo(() => fn, deps).
 
 > 📫  💬   How to reach me: 📱
 
