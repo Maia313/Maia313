@@ -16,7 +16,10 @@
 
 </details>
 
+![octocatee](https://user-images.githubusercontent.com/28684401/150548354-299895ca-fbc7-4ef2-84c4-6546a643d2ea.gif)
 
+![octocat](https://user-images.githubusercontent.com/28684401/150548383-b5ad24a8-d2c1-4fe4-8e6b-eac762ed9d61.gif)
 
+![octocate](https://user-images.githubusercontent.com/28684401/150548363-39ebd24a-d79a-40c2-b195-abd8ae8858fe.gif)
 
 
