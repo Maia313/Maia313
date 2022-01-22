@@ -1,5 +1,6 @@
-
-<img width="60%" style="align:center" alt="Infinity" src="https://user-images.githubusercontent.com/28684401/150548363-39ebd24a-d79a-40c2-b195-abd8ae8858fe.gif" />
+<p align="center">
+  <img width="60%" alt="Infinity" src="https://user-images.githubusercontent.com/28684401/150548363-39ebd24a-d79a-40c2-b195-abd8ae8858fe.gif" />
+</p>
 
 > 💻  I am a frontend developer. I use mostly React & other JS libraries in my work.
 
