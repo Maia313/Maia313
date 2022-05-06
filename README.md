@@ -9,7 +9,11 @@
 > 📫  💬   How to reach me: 📱
 
 <img width="20%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-![](https://komarev.com/ghpvc/?username=Maia313)
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/Maia313/github-profile-views-counter
+
+![](https://hit.yhype.me/github/profile?user_id=1849174)
+
 <details>
   <summary>Github usage stats!</summary>
   
