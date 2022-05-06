@@ -10,10 +10,6 @@
 
 <img width="20%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-<a href="https://github.com/Maia313/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Maia313&style=for-the-badge">
-</a>
-
 <details>
   <summary>Github usage stats!</summary>
   
@@ -21,5 +17,7 @@
   
   ![Github Stats for Maia313 most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maia313&title_color=FF69B4&icon_color=FF69B4&text_color=FF69B4&bg_color=FFF&layout=compact) 
 
-
+<a href="https://github.com/Maia313/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Maia313&style=for-the-badge">
+</a>
 </details>
