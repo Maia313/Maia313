@@ -10,7 +10,7 @@
 
 <img width="20%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
+<a href="https://github.com/Maia313/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Maia313&style=for-the-badge">
 </a>
 
