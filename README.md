@@ -22,7 +22,4 @@
 </a>
 </details>
 
-<details>
-  <summary>!!!!</summary>
-</details>
-  
+
