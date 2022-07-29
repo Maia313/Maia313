@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="70%" alt="Infinity" src="https://user-images.githubusercontent.com/28684401/150548363-39ebd24a-d79a-40c2-b195-abd8ae8858fe.gif" />
+  <img width="50%" alt="Infinity" src="https://user-images.githubusercontent.com/28684401/150548363-39ebd24a-d79a-40c2-b195-abd8ae8858fe.gif" />
 </p>
 
 > 💻  I am a frontend developer. I use mostly React & other JS libraries in my work.
@@ -8,7 +8,7 @@
 
 > 📫  💬   How to reach me: 📱
 
-<img width="10%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="30%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <details>
   <summary>Github usage stats!</summary>
