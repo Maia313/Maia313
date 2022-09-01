@@ -27,9 +27,9 @@
 
 ### Recent Projects 
 
-- 🕹 **[QWERTYBall.com][qwertyball]** is a breakout-like game where you have to hit the keys on your keyboard to keep the ball in play
-- 📈 **[DebtorToInvestor.com][debtortoinvestor]** creates a personalized roadmap to getting out of debt and starting to invest
-- 📊 **[TheSystem.app][thesystem]** is an iOS app I created to manage your money
+- 🕹 **[...][...]** is a 
+- 📈 **[...][...]** creates a 
+- 📊 **[...][thesystem]** is an 
 ---
 
 ### Connect With Me
@@ -64,7 +64,7 @@
 	<img src="./icons/cib-bootstrap.svg" alt="bootstrap" width="40" height="40"/>
 	<img src="./icons/cib-adobe-photoshop.svg" alt="photoshop" width="40" height="40"/>
 	<img src="./icons/cib-babel.svg" alt="babel" width="40" height="40"/>
-...
+
 
 </div>
 
