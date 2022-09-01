@@ -49,7 +49,8 @@
 ### Languages & Tools
 
 <div>
- 	<img src="./icons/cib-javascript.svg" alt="javascript" width="40" height="40"/>
+  <img src="./icons/cib-javascript.svg" alt="javascript" width="40" height="40"/>
+	
   <img src="./icons/cib-react.svg" alt="react" width="40" height="40"/>
 	<img src="./icons/cib-redux.svg" alt="redux" width="40" height="40"/>
 	<img src="./icons/cib-ruby.svg" alt="ruby" width="40" height="40"/>
