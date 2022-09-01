@@ -25,14 +25,7 @@
 
 ---
 
-### Recent Projects 
-
-- 🕹 **[...][...]** is a 
-- 📈 **[...][...]** creates a 
-- 📊 **[...][thesystem]** is an 
----
-
-### Connect With Me
+### More
 
 🏢 [Linkedin][linkedin] **•**
 ✉️ [Email][email] **•**
