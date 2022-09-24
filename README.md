@@ -2,9 +2,9 @@
   <img width="50%" alt="Infinity" src="https://user-images.githubusercontent.com/28684401/150548363-39ebd24a-d79a-40c2-b195-abd8ae8858fe.gif" />
 </p>
 
-> 💻  I am a frontend developer & Scrum master. I use mostly React & other JS libraries in my work.
+> 💻  I am a frontend developer. I use mostly React & other JS libraries in my work.
 
-> 🤓  What I learned today : In hooks useCallback(fn, deps) is equivalent to useMemo(() => fn, deps).
+> 🤓  HTML5, CSS3, styled-components, VS code, git, JS, React, project setup, specification definition.
 
 > 📫  💬   How to reach me: 📱
 
