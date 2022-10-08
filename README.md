@@ -4,7 +4,7 @@
 
 > 💻  I am a frontend developer. I use mostly React & other JS libraries in my work.
 
-> 🤓  HTML5, CSS3, styled-components, VS code, git, JS, React, project setup, specification definition, Agile, Scrum.
+> 🤓  HTML5, CSS3, styled-components, VS code, git, zsh, JS, React, project setup, specification definition, Agile, Scrum.
 
 > 📫  💬   How to reach me: 📱
 
