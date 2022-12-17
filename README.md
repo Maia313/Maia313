@@ -2,7 +2,7 @@
   <img width="50%" alt="Infinity" src="https://user-images.githubusercontent.com/28684401/150548363-39ebd24a-d79a-40c2-b195-abd8ae8858fe.gif" />
 </p>
 
-> 💻  I am a frontend developer. I use mostly React(/Doing magic using props/) & other JS libraries in my work.
+> 💻  I am a frontend developer. I use mostly React(✨*Doing magic using props*✨) & other JS libraries in my work.
 
 > 🤓  HTML5, CSS3, styled-components, <a href="https://slack.com/intl/en-tr/" target="_blank" rel=”noopener”> <img src="https://cdn.brandfolder.io/5H442O3W/as/pl546j-7le8zk-4nzzs1/Slack_Mark_Web.png" alt="slack" width="37" height="37"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="30" height="30"/> </a>, git, zsh, JS, React, project setup, specification definition, Agile, Scrum.
