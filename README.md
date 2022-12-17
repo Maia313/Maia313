@@ -25,8 +25,7 @@
 ---
 
 
-<p align="center"><a href="https://linkedin.com/in/isasari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isasari" height="30" width="30" /></a>
-<a href="https://isa-sari.medium.com/" target="blank" rel=”noopener”><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@isa-sari" height="30" width="40" /></a></p>
+<p align="center"><a href="[https://linkedin.com/in/maia-d](https://www.linkedin.com/in/maia-d/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maia" height="30" width="30" /></a>
 
   
   
