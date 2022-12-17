@@ -4,8 +4,8 @@
 
 > 💻  I am a frontend developer. I use mostly React(✨*Doing magic using props*✨) & other JS libraries in my work.
 
-> 🤓  HTML5, CSS3, styled-components, <a href="https://slack.com/intl/en-tr/" target="_blank" rel=”noopener”> <img src="https://cdn.brandfolder.io/5H442O3W/as/pl546j-7le8zk-4nzzs1/Slack_Mark_Web.png" alt="slack" width="27" height="27"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="20" height="20"/> </a>, git, zsh, JS, React, project setup, specification definition, Agile, Scrum.
+> 🤓  HTML5, CSS3, styled-components, <a href="https://slack.com/intl/en-tr/" target="_blank" rel=”noopener”> <img src="https://cdn.brandfolder.io/5H442O3W/as/pl546j-7le8zk-4nzzs1/Slack_Mark_Web.png" alt="slack" width="27" height="27"/> </a>,
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="20" height="20"/> </a>, git, zsh, <a href="https://js.com" target="_blank" rel=”noopener”> <img src="https://commons.wikimedia.org/wiki/File:JavaScript-logo.png" alt="js" width="27" height="27"/> </a>, React, project setup, specification definition, Agile, Scrum.
 
 > 📫  💬   How to reach me: 📱
 
