@@ -15,8 +15,8 @@
   
  ![Github Stats for Maia313 repositories](https://github-readme-stats.vercel.app/api?username=Maia313&show_icons=true&count_private=true&title_color=FF69B4&icon_color=FF69B4&text_color=FF69B4&bg_color=ececec) 
   
-  <!--<div align="center">
-    <img alt="GitHub Activity Graph" width="96%" src="https://activity-graph.herokuapp.com/graph?username=maia313&theme=react-dark&area=true&hide_border=true&custom_title=Contributions%20Graph"> </div>-->
+ <div align="center">
+    <img alt="GitHub Activity Graph" width="96%" src="https://activity-graph.herokuapp.com/graph?username=maia313&theme=react-dark&area=true&hide_border=true&custom_title=Contributions%20Graph"> </div>
 
   
   ![Github Stats for Maia313 most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maia313&title_color=FF69B4&icon_color=FF69B4&text_color=FF69B4&bg_color=FFF&layout=compact) 
