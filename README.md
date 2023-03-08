@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="50%" alt="Infinity" src="https://github.com/images/modules/search/light.png" />
+  <img width="40%" alt="Infinity" src="https://github.com/images/modules/search/light.png" />
 </p>
 
 > 💻  I am a frontend developer. I use mostly React(✨*Spreading magic using props*✨) & other JS libraries in my work.
