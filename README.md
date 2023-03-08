@@ -9,7 +9,7 @@
 
 > 📫  💬   How to reach me: 📱
 
-<img width="15%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="11%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <details>
   <summary>Github usage stats!</summary>
