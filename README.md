@@ -1,6 +1,5 @@
 <p align="center">
   <img width="50%" alt="Infinity" src="https://user-images.githubusercontent.com/28684401/150548363-39ebd24a-d79a-40c2-b195-abd8ae8858fe.gif" />
-  // https://user-images.githubusercontent.com/28684401/150548363-39ebd24a-d79a-40c2-b195-abd8ae8858fe.gif
 </p>
 
 > 💻  I am a frontend developer. I use mostly React(✨*Spreading magic using props*✨) & other JS libraries in my work.
