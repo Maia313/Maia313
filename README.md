@@ -11,6 +11,8 @@ vs code, git, zsh, js, react, project setup, specification definition, AI.
 
 <img width="15%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+https://scrimba.com/learn-javascript-c0v?via=[YOUR-AFFILIATE-LINK]
+
 <details>
   <summary>Github usage stats!</summary>
   
