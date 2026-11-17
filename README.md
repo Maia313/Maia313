@@ -2,7 +2,7 @@
   <img width="36%" alt="Infinity" src="https://github.com/images/modules/search/light.png" />
 </p>
 
-> 💻  I am a digital product developer. I use mostly React(✨*Spreading magic using props*✨) & other JS libraries in my work.
+> 💻  I am a digital product developer. I use mostly React(✨*Spreading magic using props*✨) & other Typescript libraries in my work.
 
 > 🤓  HTML5, CSS3, styled-components, slack,
 vs code, git, zsh, js, react, project setup, specification definition, AI.
